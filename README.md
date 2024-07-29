@@ -2,9 +2,8 @@
 Patched libfprint for FPC fingerprint scanner with ID 10a5:9800
 
 # Note:
-Be aware that this package shouldn't be updated because won't load the patch
+Be aware that this package shouldn't be updated because the system won't load the patch after updating
 
-Rebuilt from xuwd1's AUR package: https://aur.archlinux.org/packages/libfprint-fpcmoh-git
 Forked from: https://github.com/furcom/libfprint-patched
 
 ## How to install:
