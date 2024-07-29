@@ -7,9 +7,10 @@ Be aware that this package shouldn't be updated because the system won't load th
 Forked from: https://github.com/furcom/libfprint-patched
 
 ## How to install:
+
 1. Clone repository:
 ```
-git clone https://github.com/furcom/libfprint-patched.git
+git clone https://github.com/Grod30/libfprint-10a5-9800.git
 ```
 2. Make script executable and run it:
 ```
